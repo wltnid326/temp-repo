@@ -2,7 +2,7 @@
 
 
 ###Open Source SW###
-Lecture 2 
+Lecture 2 /br
 Introduction to GitHub
 GitHub profile
 Creating a Repository from Exsting One 
